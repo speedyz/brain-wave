@@ -1,0 +1,8 @@
+# Project exclude paths
+/brainwave/src/assets/svg/ButtonGradient.jsx
+/brainwave/src/assets/svg/ButtonSvg.jsx
+/brainwave/src/components/Button.jsx
+/brainwave/src/components/Header.jsx
+/brainwave/src/App.jsx
+/brainwave/src/main.jsx
+/brainwave/vite.config.js
